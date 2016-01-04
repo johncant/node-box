@@ -21,7 +21,7 @@
   "author": "Benjamin Lyaunzon <ben@skycatch.com>",
   "license": "N/A",
   "dependencies": {
-    "superagent": "~0.18.0"
+    "request": "*"
   },
   "devDependencies": {
     "nock": "latest",
